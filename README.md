@@ -1,2 +1,2 @@
-# Funcao_Capitalize
-A função capitalize() converte apenas a primeira letra da string em maiúsculas.
+# Function_Capitalize
+The capitalize() function converts only the first letter of the string to uppercase.
