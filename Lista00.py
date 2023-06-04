@@ -1,4 +1,4 @@
-lista01 = ['Cristiano', 'vancris', 'Crisvano', 'alexandre', 'WESLEY']
+lista01 = ['Cristian', 'vancris', 'Crisvano', 'alexandre', 'WESLEY']
 lista02 = [37, 28, 25, 36, 35]
 
 quantidade = 0
