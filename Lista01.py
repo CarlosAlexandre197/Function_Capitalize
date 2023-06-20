@@ -1,5 +1,5 @@
 produtos = [
-    'tinta acrílica 18 litros 1un', 'porcelanato 73x73 60un', 'argamassa 4kg 10un',
+    'tinta acrílica de 18 litros 1un', 'porcelanato 73x73 60un', 'argamassa 4kg 10un',
     'tijolos dois furos 2.000un', 'roda pé 2,50 comprimento 15un', 'cal 415 sacos'
 ]
 
